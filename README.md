@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="extra/core86os.jpg">
+	<img src="extra/core86os.jpg" width="500px" height="500px">
 </p>
 
 <p align="center">Core86 - 32-bit operating system in assembly language and C</p>
